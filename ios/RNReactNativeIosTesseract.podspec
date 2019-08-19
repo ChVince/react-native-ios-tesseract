@@ -1,7 +1,7 @@
 package = JSON.parse(File.read(File.join(__dir__, '../package.json')))
 
 Pod::Spec.new do |s|
-  s.name           = "RNTextDetector"
+  s.name           = "RNIosTesseract"
   s.version        = package['version']
   s.summary        = package['summary']
   s.description    = package['description']
