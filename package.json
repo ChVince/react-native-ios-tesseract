@@ -1,0 +1,20 @@
+{
+  "name": "react-native-ios-tesseract",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "Charley Vince",
+  "license": "MIT",
+  "homepage": "https://github.com/ChVince/react-native-ios-tesseract",
+  "description": "Text Detector from image for react native",
+  "summary": "Text Detector from image for react native (ios only) using Tesseract",
+  "peerDependencies": {
+    "react-native": "^0.41.2",
+    "react-native-windows": "0.41.0-rc.1"
+  }
+}
